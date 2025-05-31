@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/romeo-afroshop-kiosk/static/css/main.25ab0131.css",
-    "main.js": "/romeo-afroshop-kiosk/static/js/main.c6fb6d28.js",
+    "main.js": "/romeo-afroshop-kiosk/static/js/main.e2f4dbbb.js",
     "static/js/453.5a12302f.chunk.js": "/romeo-afroshop-kiosk/static/js/453.5a12302f.chunk.js",
     "static/media/Kerastase.png": "/romeo-afroshop-kiosk/static/media/Kerastase.8a1cb0908785b7c2e91b.png",
     "static/media/Körperpflege.png": "/romeo-afroshop-kiosk/static/media/Körperpflege.b2518919981c5debc1f4.png",
@@ -24,11 +24,11 @@
     "static/media/Black-soap.webp": "/romeo-afroshop-kiosk/static/media/Black-soap.aed57257a1091c134f9d.webp",
     "index.html": "/romeo-afroshop-kiosk/index.html",
     "main.25ab0131.css.map": "/romeo-afroshop-kiosk/static/css/main.25ab0131.css.map",
-    "main.c6fb6d28.js.map": "/romeo-afroshop-kiosk/static/js/main.c6fb6d28.js.map",
+    "main.e2f4dbbb.js.map": "/romeo-afroshop-kiosk/static/js/main.e2f4dbbb.js.map",
     "453.5a12302f.chunk.js.map": "/romeo-afroshop-kiosk/static/js/453.5a12302f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.25ab0131.css",
-    "static/js/main.c6fb6d28.js"
+    "static/js/main.e2f4dbbb.js"
   ]
 }
