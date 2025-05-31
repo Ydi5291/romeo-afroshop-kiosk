@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/romeo-afroshop-kiosk/static/css/main.25ab0131.css",
+    "main.js": "/romeo-afroshop-kiosk/static/js/main.c6fb6d28.js",
+    "static/js/453.5a12302f.chunk.js": "/romeo-afroshop-kiosk/static/js/453.5a12302f.chunk.js",
+    "static/media/Kerastase.png": "/romeo-afroshop-kiosk/static/media/Kerastase.8a1cb0908785b7c2e91b.png",
+    "static/media/Körperpflege.png": "/romeo-afroshop-kiosk/static/media/Körperpflege.b2518919981c5debc1f4.png",
+    "static/media/NIDO.jpg": "/romeo-afroshop-kiosk/static/media/NIDO.60efc3eff0b4e4b1f94a.jpg",
+    "static/media/Ignam.jpg": "/romeo-afroshop-kiosk/static/media/Ignam.97a1653320d89a363ccf.jpg",
+    "static/media/Avocados.jpg": "/romeo-afroshop-kiosk/static/media/Avocados.08d4b4e2588bcde2e308.jpg",
+    "static/media/Getränke.jpg": "/romeo-afroshop-kiosk/static/media/Getränke.a72aedf2aad7235b7ec9.jpg",
+    "static/media/Chips.jpg": "/romeo-afroshop-kiosk/static/media/Chips.709c96642fde0137c866.jpg",
+    "static/media/Schill.jpg": "/romeo-afroshop-kiosk/static/media/Schill.1cd147ff436c3df594b2.jpg",
+    "static/media/Alloco2.jpg": "/romeo-afroshop-kiosk/static/media/Alloco2.41e1a5b293f29e0c8552.jpg",
+    "static/media/Zitronen.jpg": "/romeo-afroshop-kiosk/static/media/Zitronen.83375d792e309478feee.jpg",
+    "static/media/Bissap.png": "/romeo-afroshop-kiosk/static/media/Bissap.3f47f0cec996e094304d.png",
+    "static/media/Alloco1.jpg": "/romeo-afroshop-kiosk/static/media/Alloco1.c832fc0ad6316ba21721.jpg",
+    "static/media/Kosmetik.jpg": "/romeo-afroshop-kiosk/static/media/Kosmetik.7343c04c15fc3594ca20.jpg",
+    "static/media/Lebensmittel.jpg": "/romeo-afroshop-kiosk/static/media/Lebensmittel.b887a284cbda3d945182.jpg",
+    "static/media/logo2.jpg": "/romeo-afroshop-kiosk/static/media/logo2.edb666b196266721505a.jpg",
+    "static/media/logo.jpg": "/romeo-afroshop-kiosk/static/media/logo.c86a4155fa424dd8abd6.jpg",
+    "static/media/vitamalt.jpg": "/romeo-afroshop-kiosk/static/media/vitamalt.e9ca13ac7e8968155e7d.jpg",
+    "static/media/Vimto.jpg": "/romeo-afroshop-kiosk/static/media/Vimto.0272fc4ec6a442e988a2.jpg",
+    "static/media/Black-soap.webp": "/romeo-afroshop-kiosk/static/media/Black-soap.aed57257a1091c134f9d.webp",
+    "index.html": "/romeo-afroshop-kiosk/index.html",
+    "main.25ab0131.css.map": "/romeo-afroshop-kiosk/static/css/main.25ab0131.css.map",
+    "main.c6fb6d28.js.map": "/romeo-afroshop-kiosk/static/js/main.c6fb6d28.js.map",
+    "453.5a12302f.chunk.js.map": "/romeo-afroshop-kiosk/static/js/453.5a12302f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25ab0131.css",
+    "static/js/main.c6fb6d28.js"
+  ]
+}
